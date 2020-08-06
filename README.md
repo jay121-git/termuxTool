@@ -15,3 +15,37 @@
 
 * `apt update`
 * `apt install git curl php openssh -y`
+* `git clone https://github.com/Itzumyk/termuxTool.git`
+* `cd termuxTool`
+#### > Run : `bash PHISHERxPROxBEST.sh`
+
+<br>
+<p align="center">
+<img src="img/ss1.jpg"/>
+</p>
+
+### <<< If you copy , Then Give me The Credits >>>
+
+## Features :
+#### [+] Latest Login Pages !
+#### [+] New Instagram Auto Follower Page !
+#### [+] 4 Port Forwarding Options !
+#### [+] Easy for Beginners !
+#### [+] More Sevices !
+
+
+## Credits :
+#### > <strong>Itzu Myk</strong> (https://github.com/Itzumyk)
+
+## Tunelling Options :
+#### > Localhost (127.0.0.1)
+#### > NGROK (https://ngrok.com)
+#### > SERVEO (https://serveo.net)
+#### > LOCALHOSTRUN (https://localhost.run)
+
+## Find Me on :
+[![Github](https://img.shields.io/badge/Github-Itzu--Myk-green?style=for-the-badge&logo=github)](https://github.com/captainjohnexe)
+[![Instagram](https://img.shields.io/badge/IG-%40itzumyk-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/beta.programmer)
+[![Telegram](https://img.shields.io/badge/Chat-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/John_Captain)
+[![YouTube](https://img.shields.io/badge/YouTube-Itzu%Myk-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCEbvRFT5j6ksLf2TIypwr0A)
+
