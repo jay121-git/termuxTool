@@ -13,7 +13,7 @@
 
 ## Installation :
 
-* `apt update`
+* `apt update  && apt upgrade`
 * `apt install git curl php openssh -y`
 * `git clone https://github.com/Itzumyk/termuxTool.git`
 * `cd termuxTool`
