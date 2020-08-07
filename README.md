@@ -24,7 +24,7 @@
 <img src="img/ss1.jpg"/>
 </p>
 
-### <<< If you copy , Then Give me The Credits >>>
+### !!! If you copy , Then Give me The Credits !!!
 
 ## Features :
 #### [+] Latest Login Pages !
