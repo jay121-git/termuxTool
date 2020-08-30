@@ -131,6 +131,11 @@ sleep 1
 banner
 menu
 fi
+elif [[ $option == 30 ]]; then
+printf " \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\e[1;93m This it will be available very soon \e[1;91m[\e[0m\e[1;97m!\e[0m\e[1;91m]\e[0m\n"
+sleep 1
+banner
+menu
 }
 facebook(){
 printf " \n"
