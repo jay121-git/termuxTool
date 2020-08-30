@@ -123,9 +123,6 @@ server="stackoverflow"
 start
 elif [[ $option == 29 ]]; then
 vk
-elif [[ $option == 30 ]]; then
-server="Phone Number"
-start
 elif [[ $option == X || $option == x ]]; then
 exit 1
 else
@@ -207,16 +204,6 @@ sleep 1
 banner
 menu
 fi
-}
-Phone Number(){
-printf " \n"
-printf " \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[1;93m It will be available very soon (press 1 for return to menu)\e[0m\n"
-printf "\e[0m\n"
-read -p $' \e[1;31m[\e[0m\e[1;77m~\e[0m\e[1;31m]\e[0m\e[1;92m Select an option: \e[0m\e[1;96m\en' option
-if [[ $option == 1 || $option == 01 ]]; then
-sleep 1
-banner
-menu
 }
 vk(){
 printf " \n"
